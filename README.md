@@ -9,7 +9,7 @@ This project demonstrates a clean separation of **business logic** and **UI comp
 customer-form-app/
 ├── src/
 │   ├── components/
-│   │   └── CustomerForm1.jsx         # UI for the form
+│   │   └── CustomerForm.jsx         # UI for the form
 │   ├── hooks/
 │   │   ├── useCustomerFormHandler.js # Custom hook with business logic
 │   │   └── __tests__/
