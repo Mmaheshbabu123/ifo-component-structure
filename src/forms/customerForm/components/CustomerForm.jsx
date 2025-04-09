@@ -1,7 +1,7 @@
 // components/CustomerForm1.jsx
 import React from "react";
 import { useCustomerFormHandler } from "../hooks/useCustomerFormHandler";
-import { useStaticOptions } from "../hooks/useStaticOptions";
+import { useStaticOptions } from "../Services/useStaticOptions";
 
 const CustomerForm = ({ customerId = null }) => {
   const {
